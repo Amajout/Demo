@@ -252,4 +252,3 @@ def userlogout(request):
     logout(request)
     return redirect('login')
 
-# emel bottonat d show unpaid w show paid , w show credit by client
