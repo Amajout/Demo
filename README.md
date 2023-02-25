@@ -1,1 +1,1 @@
-# E-epicier Web Application
+# E-epicier : Full Stack Web Application
